@@ -1,0 +1,22 @@
+.carddesign {
+    background-color: rgb(192, 43, 226);
+    height: 500px;
+    border-width: 20px;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    border-color: azure;
+    border-width: 10px;
+    box-shadow: 2px 2px 2px rgb(159, 149, 149);
+    border: 3px solid white;
+    padding: 70px;
+    text-align: left;
+}
+
+.butdes {
+    background-color: orange;
+}
+
+.imgs {
+    border-radius: 50%;
+}
